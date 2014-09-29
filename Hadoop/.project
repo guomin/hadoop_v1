@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Hadoop</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>classes</name>
+			<type>2</type>
+			<location>E:/workspace/hadoop_v1/hadoop-0.1.0/build/classes</location>
+		</link>
+		<link>
+			<name>conf</name>
+			<type>2</type>
+			<location>E:/workspace/hadoop_v1/hadoop-0.1.0/conf</location>
+		</link>
+		<link>
+			<name>java</name>
+			<type>2</type>
+			<location>E:/workspace/hadoop_v1/hadoop-0.1.0/src/java</location>
+		</link>
+		<link>
+			<name>src</name>
+			<type>2</type>
+			<location>E:/workspace/hadoop_v1/hadoop-0.1.0/build/src</location>
+		</link>
+	</linkedResources>
+</projectDescription>

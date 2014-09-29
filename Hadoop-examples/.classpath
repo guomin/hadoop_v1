@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="examples" path="examples"/>
+	<classpathentry kind="var" path="JRE_LIB" sourcepath="JRE_SRC"/>
+	<classpathentry kind="con" path="E:/workspace/hadoop_v1/hadoop-0.1.0/build/classes"/>
+	<classpathentry kind="lib" path="E:/workspace/hadoop_v1/hadoop-0.1.0/lib/commons-logging-api-1.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/hadoop_v1/hadoop-0.1.0/lib/jetty-5.1.4.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/hadoop_v1/hadoop-0.1.0/lib/jetty-ext/ant.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/hadoop_v1/hadoop-0.1.0/lib/jetty-ext/commons-el.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/hadoop_v1/hadoop-0.1.0/lib/jetty-ext/jasper-compiler.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/hadoop_v1/hadoop-0.1.0/lib/jetty-ext/jasper-runtime.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/hadoop_v1/hadoop-0.1.0/lib/jetty-ext/jsp-api.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/hadoop_v1/hadoop-0.1.0/lib/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/hadoop_v1/hadoop-0.1.0/lib/lucene-core-1.9.1.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/hadoop_v1/hadoop-0.1.0/lib/servlet-api.jar"/>
+	<classpathentry kind="con" path="E:/workspace/hadoop_v1/hadoop-0.1.0/conf"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Hadoop"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
